@@ -10,7 +10,7 @@
         url: "https://jenkins-cicd.apps.f6115a399213483d96ac.eastus.azmosa.io/job/cicd/job/cicd-tasks-pipeline/buildWithParameters?token=975317"
         method: GET
         user: "javier.perezsan@imss.gob.mx-admin-edit-view"
-        password: "119ddaadd83ba25e44bb0ecb0b435a5035"
+        password: "115a6d69490ef2001f2e046c25e363cefa"
         force_basic_auth: yes
         status_code: 200
         validate_certs: no
